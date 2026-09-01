@@ -31,13 +31,18 @@
 
 <br/>
 
-<!-- QUICK NAV -->
-<a href="#-activity-1-presentation-design-principles"><b>🎨 Activity 1</b></a> •
-<a href="#-activity-2-color-palette--typography"><b>🖌️ Activity 2</b></a> •
-<a href="#-activity-3-social-media-infographics--project-documentation"><b>📊 Activity 3</b></a>
+<!-- OPTION 1: CARD DASHBOARD -->
+<h3>✨ QUICK NAVIGATION DASHBOARD</h3>
 
----
+<div align="center">
 
+| 🎨 **ACTIVITY 01** | 🖌️ **ACTIVITY 02** | 📊 **ACTIVITY 03** |
+| :---: | :---: | :---: |
+| <b>Presentation Design</b> | <b>Brand & Typography</b> | <b>Social Infographics</b> |
+| ☕ Free Coffee Poster | 🖤 Neutral Palette & Fonts | 📱 Digital Forgetfulness |
+| <a href="#-activity-1-presentation-design-principles">👉 **Jump to Output**</a> | <a href="#-activity-2-color-palette--typography">👉 **Jump to Output**</a> | <a href="#-activity-3-social-media-infographics--project-documentation">👉 **Jump to Output**</a> |
+
+</div>
 </div>
 
 <br/>
