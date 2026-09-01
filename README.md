@@ -34,11 +34,11 @@
 <!-- CAPSULE BANNER NAV -->
 <p align="center">
   <a href="#-activity-1-presentation-design-principles">
-    <img src="https://img.shields.io/badge/01%20--%20Presentation%20Design-Principles%20%26%20Hierarchy-6366f1?style=for-the-badge&logo=layout&logoColor=white"/>
+    <img src="https://img.shields.io/badge/01%20--%20Presentation%20Design-Principles-6366f1?style=for-the-badge&logo=layout&logoColor=white"/>
   </a>
   <br/>
   <a href="#-activity-2-color-palette--typography">
-    <img src="https://img.shields.io/badge/02%20--%20Palette%20%26%20Typography-Brand%20Identity%20System-a855f7?style=for-the-badge&logo=artstation&logoColor=white"/>
+    <img src="https://img.shields.io/badge/02%20--%20Palette%20%26%20Typography-Personal%20Branding-a855f7?style=for-the-badge&logo=artstation&logoColor=white"/>
   </a>
   <br/>
   <a href="#-activity-3-social-media-infographics--project-documentation">
