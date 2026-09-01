@@ -3,7 +3,7 @@
 
 #### 📖 Introduction
 In an increasingly digitized world, users accumulate vast amounts of data daily—from personal photos and academic records to essential passwords. However, without systematic organization and cybersecurity awareness, critical information is easily lost. This activity focuses on creating a visually engaging, educational social media infographic titled **"DIGITAL FORGETFULNESS"** that highlights the risks of digital data loss and introduces an AI-powered organizational solution.
-<img width="800" height="2000" alt="Infographic_DAVID (1)" src="https://github.com/user-attachments/assets/8213cb35-0b54-4731-b4c8-5bcb798be2d1" />
+<img width="800" height="2000" alt="Infographic_DAVID (1)" src="https://github.com/user-attachments/assets/f68aa9b6-9cad-4c3c-afdb-a87da71c9b96" />
 
 ---
 
@@ -42,5 +42,4 @@ In an increasingly digitized world, users accumulate vast amounts of data daily�
    Applied color-coded blocks to separate distinct ideas, added custom icons for rapid visual processing, and balanced text-heavy sections with clear whitespace.
 
 4. **Academic Documentation & Citations:** 
-   Integrated official cybersecurity and digital preservation references (NIST Framework & Digital Preservation Coalition) at the footer to ensure data accuracy and academic integrity.<img width="800" height="2000" alt="Infographic_DAVID (1)" src="https://github.com/user-attachments/assets/cb777e65-b807-4825-aa61-4731fba61975" />
-<img width="800" height="2000" alt="Infographic_DAVID (1)" src="https://github.com/user-attachments/assets/8d763ab1-fb34-434c-b723-a6f7026514f2" />
+   Integrated official cybersecurity and digital preservation references (NIST Framework & Digital Preservation Coalition) at the footer to ensure data accuracy and academic integrity.
