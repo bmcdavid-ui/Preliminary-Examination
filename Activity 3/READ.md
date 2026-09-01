@@ -1,17 +1,49 @@
-### 📊 **Activity 3: Social Media Infographics & Project Documentation**
-> *"Turning complex data into clear, compelling visuals."*
+<div align="center">
 
-#### 📖 Introduction
-In an increasingly digitized world, users accumulate vast amounts of data daily—from personal photos and academic records to essential passwords. However, without systematic organization and cybersecurity awareness, critical information is easily lost. This activity focuses on creating a visually engaging, educational social media infographic titled **"DIGITAL FORGETFULNESS"** that highlights the risks of digital data loss and introduces an AI-powered organizational solution.
-<img width="800" height="2000" alt="Infographic_DAVID (1)" src="https://github.com/user-attachments/assets/f68aa9b6-9cad-4c3c-afdb-a87da71c9b96" />
+# 📊 ACTIVITY 3: SOCIAL MEDIA INFOGRAPHICS & PROJECT DOCUMENTATION
 
-[Project Documentation_DAVID.pdf](https://github.com/user-attachments/files/31679253/Project.Documentation_DAVID.pdf)
+<br/>
+
+<!-- BADGES -->
+<p align="center">
+  <img src="https://img.shields.io/badge/Activity-03-6366f1?style=for-the-badge&logo=canva&logoColor=white" />
+  <img src="https://img.shields.io/badge/Focus-Social_Media_Infographics-a855f7?style=for-the-badge&logo=instagram&logoColor=white" />
+  <img src="https://img.shields.io/badge/Status-Completed_✨-10b981?style=for-the-badge&logo=checkmarx&logoColor=white" />
+</p>
+
 ---
 
-#### 💡 Concept & Theme
-* **Core Topic:** Digital Forgetfulness & Data Preservation (*"Your Digital Life Is Growing — Can You Still Find It?"*).
-* **Objective:** To educate users on why digital memories disappear, present key statistics on data growth, and propose actionable solutions through an AI-powered digital memory organizer.
-* **Target Audience:** Students, tech users, and digital natives active on social media platforms who require quick, digestible information.
+</div>
+
+<br/>
+
+## 📌 Introduction
+
+In an increasingly digitized world, users accumulate vast amounts of data daily—from personal photos and academic records to essential passwords. However, without systematic organization and cybersecurity awareness, critical information is easily lost. This activity focuses on creating a visually engaging, educational social media infographic titled **"DIGITAL FORGETFULNESS"** that highlights the risks of digital data loss and introduces an AI-powered organizational solution.
+
+<br/>
+
+> 💡 *"Turning complex data into clear, compelling visuals."*
+
+<br/>
+
+### 🎨 My Activity 3 Output
+
+<p align="center">
+  <img width="100%" alt="Infographic_DAVID (1)" src="https://github.com/user-attachments/assets/f68aa9b6-9cad-4c3c-afdb-a87da71c9b96" />
+  <br/><br/>
+  📄 <b>Project Documentation:</b> <a href="https://github.com/user-attachments/files/31679253/Project.Documentation_DAVID.pdf">Download Project.Documentation_DAVID.pdf</a>
+</p>
+
+---
+
+## 💡 Concept & Theme
+
+| Parameter | Overview |
+| :--- | :--- |
+| 🎯 **Core Topic** | **Digital Forgetfulness & Data Preservation** (*"Your Digital Life Is Growing — Can You Still Find It?"*) |
+| 🚀 **Objective** | To educate users on why digital memories disappear, present key statistics on data growth, and propose actionable solutions through an AI-powered digital memory organizer. |
+| 👥 **Target Audience** | Students, tech users, and digital natives active on social media platforms who require quick, digestible information. |
 
 ---
 
