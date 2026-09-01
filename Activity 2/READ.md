@@ -18,8 +18,9 @@ appearance while still maintaining readability and visual hierarchy.
 The limited color palette helps keep the design organized, while the
 combination of serif and sans-serif typography adds contrast and
 balance.
+<img width="2000" height="2000" alt="2" src="https://github.com/user-attachments/assets/ebe272d7-2eaf-4ba5-8328-38a396785b23" />
 
----<img width="1500" height="500" alt="1" src="https://github.com/user-attachments/assets/7f17855a-3afc-46ea-a457-14bfb704d6c3" />
+<img width="1500" height="500" alt="1" src="https://github.com/user-attachments/assets/7f17855a-3afc-46ea-a457-14bfb704d6c3" />
 
 
 ## 🎨 My Activity 2 Output
