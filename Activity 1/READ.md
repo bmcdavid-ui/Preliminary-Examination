@@ -1,35 +1,40 @@
-## 🎨 Activity 1: Presentation Design Principles
+<div align="center">
 
-### 📌 Introduction
+# 🎨 ACTIVITY 1: PRESENTATION DESIGN PRINCIPLES
 
-For **Activity 1: Presentation Design Principles**, I created the
-following promotional digital poster as my output for the activity.
-The poster features a **"Free Coffee"** giveaway organized by the
-**Ateneo de Davao University School of Nursing**.
+<br/>
 
-This output was created to practice and demonstrate my understanding
-of fundamental presentation and visual design principles. I aimed to
-create a poster that would immediately capture the audience's attention
-while presenting the important event information in a clear,
-organized, and visually appealing way.
+<!-- BADGES -->
+<p align="center">
+  <img src="https://img.shields.io/badge/Activity-01-6366f1?style=for-the-badge&logo=canva&logoColor=white" />
+  <img src="https://img.shields.io/badge/Focus-Design_Principles-a855f7?style=for-the-badge&logo=layout&logoColor=white" />
+  <img src="https://img.shields.io/badge/Status-Completed_✨-10b981?style=for-the-badge&logo=checkmarx&logoColor=white" />
+</p>
 
-In developing my output, I applied several design principles, including
-**visual hierarchy, contrast, focal point, movement, proximity,
-alignment, and balance**. These principles helped me organize the
-different elements of the poster and guide the viewer's attention
-toward the most important information.
+---
 
-Through this activity, I learned that effective presentation design
-is not only about creating an attractive visual output. It is also
-about making intentional design choices that improve communication,
-readability, audience engagement, and the overall visual experience.
+</div>
+
+<br/>
+
+## 📌 Introduction
+
+For **Activity 1: Presentation Design Principles**, I created the following promotional digital poster as my output for the activity. The poster features a **"Free Coffee"** giveaway organized by the **Ateneo de Davao University School of Nursing**.
+
+This output was created to practice and demonstrate my understanding of fundamental presentation and visual design principles. I aimed to create a poster that would immediately capture the audience's attention while presenting the important event information in a clear, organized, and visually appealing way.
+
+In developing my output, I applied several design principles, including **visual hierarchy, contrast, focal point, movement, proximity, alignment, and balance**. These principles helped me organize the different elements of the poster and guide the viewer's attention toward the most important information.
+
+Through this activity, I learned that effective presentation design is not only about creating an attractive visual output. It is also about making intentional design choices that improve communication, readability, audience engagement, and the overall visual experience.
+
+<br/>
 
 ### 🖼️ My Activity 1 Output
 
-<img width="1414" height="2000" alt="ACTIVITY 1 - GE 4120_DAVID (1)" src="https://github.com/user-attachments/assets/cff88fe0-b2ac-4838-96ed-523b02b3afde" />
-
-> This poster is my original output created for Activity 1,
-> demonstrating the application of presentation design principles.
+<p align="center">
+  <img width="100%" alt="ACTIVITY 1 - GE 4120_DAVID (1)" src="https://github.com/user-attachments/assets/cff88fe0-b2ac-4838-96ed-523b02b3afde" />
+  <br/><br/>
+</p>
 
 ## 📐 Design Principles Applied
 
