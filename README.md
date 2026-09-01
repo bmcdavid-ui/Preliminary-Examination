@@ -32,10 +32,9 @@
 <br/>
 
 <!-- QUICK NAV -->
-<a href="#-about-this-portfolio"><b>🌟 About</b></a> • 
-<a href="#-prelim-showcase"><b>📂 Activities Showcase</b></a> • 
-<a href="#%EF%B8%8F-toolkit--stack"><b>🛠️ Toolkit</b></a> • 
-<a href="#-key-takeaways"><b>💡 Reflections</b></a>
+<a href="#-activity-1-presentation-design-principles"><b>🎨 Activity 1</b></a> • 
+<a href="#-activity-2-color-palette--typography"><b>🖌️ Activity 2</b></a> • 
+<a href="#-activity-3-social-media-infographics--project-documentation"><b>📊 Activity 3</b></a>
 
 ---
 
