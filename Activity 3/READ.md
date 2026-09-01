@@ -4,7 +4,7 @@
 #### 📖 Introduction
 In an increasingly digitized world, users accumulate vast amounts of data daily—from personal photos and academic records to essential passwords. However, without systematic organization and cybersecurity awareness, critical information is easily lost. This activity focuses on creating a visually engaging, educational social media infographic titled **"DIGITAL FORGETFULNESS"** that highlights the risks of digital data loss and introduces an AI-powered organizational solution.
 <img width="800" height="2000" alt="Infographic_DAVID (1)" src="https://github.com/user-attachments/assets/f68aa9b6-9cad-4c3c-afdb-a87da71c9b96" />
-
+[Project Documentation_DAVID.pdf](https://github.com/user-attachments/files/31679253/Project.Documentation_DAVID.pdf)
 ---
 
 #### 💡 Concept & Theme
